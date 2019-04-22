@@ -1,0 +1,19 @@
+.entete-post
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.date
+{
+  color: grey;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h3
+{
+  margin: 0;
+}
